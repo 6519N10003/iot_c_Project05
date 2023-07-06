@@ -1,0 +1,1 @@
+rintf ("Box %d : \n" , i + 1 ,num[i]) ;
